@@ -110,6 +110,10 @@
 
 - [Strong Blog](https://strongloop.com/strongblog/) -  Blog on articles related to Loopback API generator.
 
+- [Tech News](https://techherald.in/) - A Technology News Site 
+
+- [Listicles Of AI](https://nextotech.com/) - A Listicle Site on Artificial Intelligence And Machine Learning
+
 # Contribution
 
 Interesting contributions are always welcome. :blush:
